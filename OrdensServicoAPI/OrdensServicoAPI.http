@@ -1,0 +1,6 @@
+@OrdensServicoAPI_HostAddress = http://localhost:5233
+
+GET {{OrdensServicoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
